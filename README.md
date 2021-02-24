@@ -1,16 +1,6 @@
-# com
+## Screens
 
-TicTacToe Game
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Giris](https://user-images.githubusercontent.com/51384613/109049209-0cd9f400-76e9-11eb-8dfe-cd334d17da77.jpg)
+![Ikınci Screen](https://user-images.githubusercontent.com/51384613/109049241-16635c00-76e9-11eb-8354-0bd66ee23988.jpg)
+![Draw](https://user-images.githubusercontent.com/51384613/109049153-f895f700-76e8-11eb-88df-1cd90024cbf4.jpg)
+![Winner](https://user-images.githubusercontent.com/51384613/109049118-ef0c8f00-76e8-11eb-8f41-4c16aa9ba843.jpg)
