@@ -1,3 +1,7 @@
+# Tic Tac Toe Game in Flutter
+
+A game in which opponent players can make moves against each other. Whoever thinks about the right move wins.
+
 ## Screens
 
 ![Giris](https://user-images.githubusercontent.com/51384613/109049209-0cd9f400-76e9-11eb-8dfe-cd334d17da77.jpg)
