@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-
 void main() {
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+  // ignore: deprecated_member_use
   SystemChrome.setEnabledSystemUIOverlays([]);
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MyApp());
@@ -29,12 +29,19 @@ class IntroScreen extends StatefulWidget {
 
 class _IntroScreenState extends State<IntroScreen>
     with SingleTickerProviderStateMixin {
+  static var myNewFont = GoogleFonts.lato(
+    textStyle: TextStyle(
+        color: Colors.deepOrangeAccent,
+        letterSpacing: .5,
+        fontWeight: FontWeight.bold),
+  );
 
-      static var myNewFont = GoogleFonts.pressStart2P(
-      textStyle: TextStyle(color: Colors.black, letterSpacing: 3));
-  static var myNewFontWhite = GoogleFonts.pressStart2P(
-      textStyle: TextStyle(color: Colors.white, letterSpacing: 3));
-
+  static var myNewFontWhite = GoogleFonts.lato(
+    textStyle: TextStyle(
+        color: Colors.deepOrangeAccent,
+        letterSpacing: .5,
+        fontWeight: FontWeight.bold),
+  );
 
   @override
   Widget build(BuildContext context) {
@@ -123,8 +130,6 @@ class _IntroScreenState extends State<IntroScreen>
                     ),
                   ),
                 ),
-
-
               ],
             ),
           )),

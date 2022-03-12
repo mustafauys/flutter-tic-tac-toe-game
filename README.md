@@ -4,7 +4,6 @@ A game in which opponent players can make moves against each other. Whoever thin
 
 ## Screens
 
-![Giris](https://user-images.githubusercontent.com/51384613/109049209-0cd9f400-76e9-11eb-8dfe-cd334d17da77.jpg)
-![Ikınci Screen](https://user-images.githubusercontent.com/51384613/109049241-16635c00-76e9-11eb-8354-0bd66ee23988.jpg)
-![Draw](https://user-images.githubusercontent.com/51384613/109049153-f895f700-76e8-11eb-88df-1cd90024cbf4.jpg)
-![Winner](https://user-images.githubusercontent.com/51384613/109049118-ef0c8f00-76e8-11eb-8f41-4c16aa9ba843.jpg)
+![1](https://user-images.githubusercontent.com/51384613/158038153-0511367a-0796-44a0-879f-5d242371df8c.jpg)
+![2](https://user-images.githubusercontent.com/51384613/158038161-7aeb6045-df55-4edb-88b3-c74c29117e3c.jpg)
+![3](https://user-images.githubusercontent.com/51384613/158038167-5d5c67a4-e28a-47ef-b58a-b81c2310fef5.jpg)
